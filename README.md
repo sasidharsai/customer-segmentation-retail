@@ -43,6 +43,3 @@ Customer segmentation visualized using scatter plots.
 ## 🚀 Conclusion
 This project demonstrates how data-driven customer segmentation can improve business decision-making.
 
----
-
-#DataAnalytics #Python #MachineLearning #CustomerSegmentation #KMeans #PortfolioProject
